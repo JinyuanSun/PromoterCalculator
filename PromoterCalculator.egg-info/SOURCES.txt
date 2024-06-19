@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+PromoterCalculator.egg-info/PKG-INFO
+PromoterCalculator.egg-info/SOURCES.txt
+PromoterCalculator.egg-info/dependency_links.txt
+PromoterCalculator.egg-info/requires.txt
+PromoterCalculator.egg-info/top_level.txt
+promoter_calculator/Promoter_Calculator_v1_0.py
+promoter_calculator/__init__.py
+promoter_calculator/free_energy_coeffs.npy
+promoter_calculator/model_intercept.npy
+promoter_calculator/util.py
